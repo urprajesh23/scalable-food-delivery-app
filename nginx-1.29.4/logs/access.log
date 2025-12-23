@@ -43,3 +43,5 @@
 127.0.0.1 - - [23/Dec/2025:13:09:11 +0530] "PUT /api/restaurants/toggle-status/69491388a324d77de7b234cc HTTP/1.1" 200 209 "-" "axios/1.13.2"
 127.0.0.1 - - [23/Dec/2025:13:09:11 +0530] "PUT /api/restaurants/toggle-status/69491388a324d77de7b234cc HTTP/1.1" 200 210 "-" "axios/1.13.2"
 127.0.0.1 - - [23/Dec/2025:13:09:11 +0530] "PUT /api/restaurants/toggle-status/69491388a324d77de7b234cc HTTP/1.1" 200 209 "-" "axios/1.13.2"
+127.0.0.1 - - [23/Dec/2025:13:17:59 +0530] "PUT /api/restaurants/toggle-status/69491388a324d77de7b234cb HTTP/1.1" 200 247 "-" "axios/1.13.2"
+127.0.0.1 - - [23/Dec/2025:13:18:01 +0530] "PUT /api/restaurants/toggle-status/69491388a324d77de7b234ca HTTP/1.1" 200 265 "-" "axios/1.13.2"
